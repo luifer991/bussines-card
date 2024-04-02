@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #F2F5F9;
+}
+
+h1 h2 h3 h4 h5 h6 {
+    text-wrap: balance;
+    line-height: 1.1;
+    letter-spacing: -1%;
+    background-color: #FFFFFF;
+}
+
+p {
+    text-wrap: pretty;
+    background-color: #FFFFFF;
+}
+
+main {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 124px;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+
+h3{
+    margin:0 32px 12px 32px;
+    background-color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+h4{
+    background-color: #FFFFFF;
+    font-family: "Lato",sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.Customer{
+    font-family: "Lato",sans-serif;
+    font-size: 12px;
+    padding-top: 6px;
+}
+
+.body{
+    margin:0 32px 24px 32px;
+    font-family: "Lato",sans-serif;
+    font-size: 16px;
+}
+
+.hero{
+    height: 200px;
+    border-radius: 16px;
+}
+.overlay{
+    z-index: 1;
+    position: absolute;
+    top: 266px;
+    left: 619px;
+    background-color: transparent;
+}
+
+.name{
+    display: flex;
+    background-color: #FFFFFF;
+    margin: 24px 32px 32px 32px;
+    padding-bottom: 32px;
+}
+
+.avatar{
+    height: 40px;
+    width: auto;
+    border-radius: 50%;
+    margin-right: 12px;
+    background-color: #FFFFFF;
+}
+
